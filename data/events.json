@@ -1,0 +1,19 @@
+[
+  {
+    "kind": "dimension_replace",
+    "revision": "d2",
+    "replaces": "d1",
+    "sample_id": "S1",
+    "valid_from": "2026-01-10",
+    "valid_to": "2026-01-20",
+    "cohort": "B"
+  },
+  {
+    "kind": "fact_revision",
+    "fact_id": "F1",
+    "revision": 2,
+    "sample_id": "S1",
+    "occurred_on": "2026-01-05",
+    "value": "3.25"
+  }
+]

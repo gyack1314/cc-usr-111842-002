@@ -1,0 +1,10 @@
+{
+  "interval": "ISO日期，左含右不含",
+  "knowledge": "仓库成功开放的单调批次；原始输入没有获知批次",
+  "dimension_identity": "revision",
+  "fact_identity": [
+    "fact_id",
+    "revision"
+  ],
+  "replaces": "只替代指定父修订覆盖范围，范围外父记录保留"
+}

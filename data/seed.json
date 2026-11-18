@@ -1,0 +1,20 @@
+{
+  "dimension": [
+    {
+      "revision": "d1",
+      "sample_id": "S1",
+      "valid_from": "2026-01-01",
+      "valid_to": "2026-02-01",
+      "cohort": "A"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F1",
+      "revision": 1,
+      "sample_id": "S1",
+      "occurred_on": "2026-01-12",
+      "value": "3.25"
+    }
+  ]
+}
